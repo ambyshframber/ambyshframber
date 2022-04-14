@@ -1,4 +1,15 @@
-### Hi there 👋
+# amber jay allison lastname
+
+### she/they
+
+hi i write terrible rust code. also i have a website.
+
+## projects include:
+
+- gladiator war
+- atodo
+- avc
+- midimon
 
 <!--
 **ambyshframber/ambyshframber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
