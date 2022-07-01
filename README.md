@@ -6,10 +6,10 @@ hi i write terrible rust code. also i have a website.
 
 ## projects include:
 
-- gladiator war
-- atodo
-- avc
-- midimon
+- kepler
+- staticcc
+- neoercities
+- avc2
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambyshframber)](https://github.com/anuraghazra/github-readme-stats)
 
